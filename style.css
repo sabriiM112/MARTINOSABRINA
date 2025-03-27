@@ -1,0 +1,17 @@
+#p2 {
+    font-size: 24px;
+}
+
+.contenedor {
+    width: 300px;
+    height: 320px;
+    background-color: plum; 
+    box-shadow: rgba(15, 14, 14, 0.35) 0px 5px 15px;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+    background-color:lightblue;
+}       
+   
